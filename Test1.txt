@@ -1,1 +1,6 @@
-Test git 1
+def main():
+  print("testing")
+
+
+
+main()
